@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+\.venv/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# OneDrive / syncing cruft
+~$*
+desktop.ini
+
+# Local app data files (do not commit sensitive data)
+session.json
+users.json
+student_data.json
+
+# Excel exports
+*.xlsx
